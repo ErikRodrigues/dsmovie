@@ -1,0 +1,6 @@
+postgres://
+apuaehazflhvvt:
+aba4f440bf9b3ba126453fe11e40364b7c11439fde2096255d27d8a83daac307
+@ec2-3-227-195-74.compute-1.amazonaws.com:
+5432/
+d5a92ib3os3pko
